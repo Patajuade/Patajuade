@@ -1,6 +1,6 @@
 ## Contact : 
 - [📫 E-mail](mailto:Manon.Diana@icloud.com)
-- [Profil LinkedIn](https://www.linkedin.com/in/manon-c-diana-a117b0192/)
+- [🎓 LinkedIn](https://www.linkedin.com/in/manon-c-diana-a117b0192/)
 
 
 # Recherche de stage 👃
