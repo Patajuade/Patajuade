@@ -25,5 +25,3 @@ Hello !
 I am looking for an internship as a part of my last Bachelor's IT/dev degree year.
 
 Please feel free to browse my git profile and my projects !
-
-Contact : [📫 E-mail](mailto:Manon.Diana@icloud.com)
