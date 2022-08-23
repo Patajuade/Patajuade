@@ -1,16 +1,17 @@
-### Hi there 👋
+# Recherche de stage 👃
+Bonjour !
 
-<!--
-**Patajuade/Patajuade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis à la recherche d'un stage dans le développement dans le cadre de ma dernière année de bachelier d'informatique.
 
-Here are some ideas to get you started:
+N'hésitez pas à parcourir mes différents projets !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+____
+
+# Looking for an intership
+Hello ! 
+
+I am looking for an internship as a part of my last Bachelor's IT/dev degree year.
+
+Please feel free to browse my git profile and my projects !
+
+[📫 Send me an e-mail !](mailto:Manon.Diana@icloud.com)
