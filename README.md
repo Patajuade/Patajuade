@@ -4,7 +4,7 @@
 
 
 # Recherche de stage 👃
-<div style="display: flex;">
+<div style="display: flex;" align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Typescript" src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=0076c5"/>
   <img alt="C#" src="https://img.shields.io/badge/csharp%20-%2320232a.svg?&style=for-the-badge&logo=csharp&logoColor=058e0c"/>
