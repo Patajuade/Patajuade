@@ -15,6 +15,7 @@
   <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23bd002e.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+<br>
 Bonjour !
 
 Je suis à la recherche d'un stage dans le développement dans le cadre de ma dernière année de bachelier d'informatique.
