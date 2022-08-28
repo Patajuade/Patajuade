@@ -26,8 +26,7 @@ De par ma formation polyvalente, j'ai eu la chance de pouvoir toucher à beaucou
 N'hésitez pas à parcourir mon profil GitHub et mes différents projets !
 
 
-<div style="display:flex;" align="center"> 
 ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Patajuade&show_icons=true&theme=darcula)
-</div>
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patajuade&theme=gotham&layout=compact)](https://github.com/Patajuade/Patajuade)-->
