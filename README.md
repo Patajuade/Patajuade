@@ -20,7 +20,4 @@
 
 
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Patajuade&show_icons=true&theme=darcula)
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patajuade&theme=darcula&layout=compact)](https://github.com/Patajuade/Patajuade)-->
