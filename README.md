@@ -11,10 +11,10 @@
   <img alt="HTML" src="https://img.shields.io/badge/html%20-%23163256.svg?&style=for-the-badge&logo=html5&logoColor=dd4b25"/>
   <img alt="CSS" src="https://img.shields.io/badge/css%20-%232862e9.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Android" src="https://img.shields.io/badge/android%20-%233ad17d.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/nodejs%20-%2333b7f3a.svg?&style=for-the-badge&logo=nodejs&logoColor=white"/>
-  <img alt="VueJS" src="https://img.shields.io/badge/vuejs%20-%233fb27f.svg?&style=for-the-badge&logo=vuejs&logoColor=3FB27F"/>
-  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/android%20-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=3ad17d"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/nodejs%20-%233e843c.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="VueJS" src="https://img.shields.io/badge/vuejs%20-%2332475b.svg?&style=for-the-badge&logo=vue.js&logoColor=3fb27f"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=F05033"/>
 </div>
 <br>
 
