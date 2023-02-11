@@ -13,7 +13,7 @@
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Android" src="https://img.shields.io/badge/android%20-%2320232a.svg?&style=for-the-badge&logo=android&logoColor=3ad17d"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/nodejs%20-%233e843c.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="VueJS" src="https://img.shields.io/badge/vuejs%20-%2332475b.svg?&style=for-the-badge&logo=vue.js&logoColor=3fb27f"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23d6002f.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%2320232a.svg?&style=for-the-badge&logo=git&logoColor=F05033"/>
 </div>
