@@ -1,5 +1,4 @@
 ## Contact : 
-- [📫 E-mail](mailto:Manon.Diana@icloud.com)
 - [🎓 LinkedIn](https://www.linkedin.com/in/manon-c-diana-a117b0192/)
 
 
